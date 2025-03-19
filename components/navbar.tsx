@@ -10,7 +10,7 @@ export function Navbar() {
         <div className="mr-4 flex">
           <Link href="/" className="flex items-center space-x-2">
             <Link2 className="h-5 w-5" />
-            <span className="font-bold">Tenshort URL Shortener</span>
+            <span className="font-bold">Proofly URL Shortener</span>
           </Link>
         </div>
         <div className="flex flex-1 items-center justify-end space-x-2">
